@@ -1,0 +1,23 @@
+{
+  "name": "passport-with-roles",
+  "version": "1.0.0",
+  "description": "Authorization middleware for passport.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --timeout 5000 *.test.js --watch --slow 150"
+  },
+  "author": {
+    "name": "Michael Myers",
+    "email": "michaelzmyers@gmail.com"
+  },
+  "repository": {
+    "type": "url",
+    "url": "https://github.com/alienzz/passport-with-roles.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.2",
+    "sinon": "^7.3.1"
+  }
+}
