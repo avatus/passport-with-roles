@@ -10,7 +10,7 @@ Install the dependencies and devDependencies and start the server.
 
 ```js
 // require library
-const PassportWithRoles = require('../config/passport-with-roles')
+const PassportWithRoles = require('passport-with-roles')
 // then instantiate
 const hasRoles = new PassportWithRoles("role")
 // then pass as middleware after passport
