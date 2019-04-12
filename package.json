@@ -1,7 +1,7 @@
 {
   "name": "passport-with-roles",
-  "version": "1.0.1",
-  "description": "Authorization middleware for passport.js",
+  "version": "1.0.2",
+  "description": "Role-based authorization middleware for passport.js",
   "main": "index.js",
   "scripts": {
     "test": "mocha --timeout 5000 *.test.js --watch --slow 150"
