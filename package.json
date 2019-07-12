@@ -1,6 +1,6 @@
 {
   "name": "passport-with-roles",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Role-based authorization middleware for passport.js",
   "main": "index.js",
   "scripts": {
